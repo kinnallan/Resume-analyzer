@@ -1,0 +1,41 @@
+XAMPP:
+
+It is a popular open-source software package that simplifies the process of setting up a local web server environment on your computer. It stands for Cross-Platform (X), Apache (A), MySQL (M), PHP (P), and Perl (P). 
+
+To create a simple webpage using XAMPP, you'll need to follow these basic steps:
+
+Install XAMPP: Download and install XAMPP from the official website according to your operating system (Windows, macOS, Linux).
+
+Start Apache and MySQL Servers: After installing XAMPP, start both the Apache and MySQL servers using the XAMPP Control Panel. This panel provides a user-friendly interface to manage the servers.
+
+Create a New Folder: Create a folder in the htdocs directory of your XAMPP installation. This directory is where your local web files will be served from.
+
+Create HTML File: Inside the folder you created, create a new file with a .html extension. You can use any text editor (e.g., Notepad, Visual Studio Code, Sublime Text) to create and edit this file.
+
+Write HTML Code: Write the HTML code for your webpage inside the .html file. 
+
+Python Libraries needed :
+
+pdfminer3: Used for extracting text and metadata from PDF files.
+
+pyresparser: Used for extracting resume information such as name, email, skills, etc., from resumes in various formats (PDF, DOCX, etc.).
+
+streamlit: Used for creating interactive web applications with Python. It allows you to quickly create and share data-driven apps.
+
+pandas: Used for data manipulation and analysis. It provides powerful data structures and functions to work with structured data.
+
+pafy: Used for retrieving YouTube content metadata and streaming URLs.
+
+plotly: Used for creating interactive and publication-quality graphs and visualizations.
+
+pymysql: Used for connecting Python applications to MySQL databases and executing SQL queries.
+
+streamlit-tags: An extension for Streamlit that provides customizable tags for organizing and filtering data.
+
+Pillow: Used for image processing tasks such as opening, manipulating, and saving various image file formats.
+
+youtube-dl: Used for downloading videos from YouTube and many other video-sharing platforms.
+
+nltk: Used for natural language processing (NLP) tasks such as tokenization, stemming, tagging, parsing, and more.
+
+spacy: Another library used for natural language processing, offering capabilities for entity recognition, dependency parsing, and more, with a focus on efficiency and ease of use.
